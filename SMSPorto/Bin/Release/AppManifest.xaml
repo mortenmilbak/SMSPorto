@@ -1,0 +1,7 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="SMSPorto" EntryPointType="SMSPorto.App" RuntimeVersion="4.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="SMSPorto" Source="SMSPorto.dll" />
+    <AssemblyPart x:Name="Google.AdMob.Ads.WindowsPhone7" Source="Google.AdMob.Ads.WindowsPhone7.dll" />
+    <AssemblyPart x:Name="Microsoft.Phone.Controls" Source="Microsoft.Phone.Controls.dll" />
+  </Deployment.Parts>
+</Deployment>

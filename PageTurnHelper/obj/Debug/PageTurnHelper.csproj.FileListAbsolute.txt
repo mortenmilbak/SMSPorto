@@ -1,0 +1,7 @@
+F:\Udvikling\SMSPorto\PageTurnHelper\Bin\Debug\PageTurnHelper.dll
+F:\Udvikling\SMSPorto\PageTurnHelper\Bin\Debug\PageTurnHelper.pdb
+F:\Udvikling\SMSPorto\PageTurnHelper\obj\Debug\ResolveAssemblyReference.cache
+F:\Udvikling\SMSPorto\PageTurnHelper\obj\Debug\Themes\generic.g.i.cs
+F:\Udvikling\SMSPorto\PageTurnHelper\obj\Debug\PageTurnHelper.g.resources
+F:\Udvikling\SMSPorto\PageTurnHelper\obj\Debug\PageTurnHelper.dll
+F:\Udvikling\SMSPorto\PageTurnHelper\obj\Debug\PageTurnHelper.pdb
